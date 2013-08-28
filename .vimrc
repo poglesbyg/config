@@ -2,6 +2,8 @@ set nocompatible
 set autoindent
 set smartindent
 
+" from veiset
+
 set wildmenu " Cool looking menu shit lol
 set backspace=indent,eol,start
 set backup " keep a backup file
